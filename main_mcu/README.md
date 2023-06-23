@@ -1,0 +1,1 @@
+Link to state machine flow chart: https://lucid.app/lucidchart/a4bc1315-41cd-4296-962c-10b4b0074c76/edit?viewport_loc=-124%2C20%2C1726%2C820%2C0_0&invitationId=inv_a677487a-8e68-4dfe-964a-c044c646e646#
